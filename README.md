@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I love to learn new things**
 
--You can find my portofolio with all my projects in the repositories !!!
+<b>You can find my portofolio with all my projects in the repositories !!!</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
