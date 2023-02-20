@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I love to learn new things**
 
-<h3 align="left">You can find my portofolio with all my projects in the repositories!</h3>
+<h3 align="left"><a href="https://github.com/VezalisPetros/My-Portofolio">You can find my portofolio with all my projects in the repositories!</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
