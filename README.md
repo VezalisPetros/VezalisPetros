@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I love to learn new things**
 
-<h3 align="left"><a href="https://fantastic-zuccutto-2121e0.netlify.app/">Fill free to check my portofolio! </a></h3>
+<h3 align="left"><a href="https://fantastic-zuccutto-2121e0.netlify.app/">Feel free to browse through my portfolio here.</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
